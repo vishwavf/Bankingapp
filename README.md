@@ -41,7 +41,7 @@ BankingApp is a simple Java-based console application that simulates basic banki
 
 3. **Compile the project:**
 
-Use an IDE or run the following command to compile the Java files:
+   Use an IDE or run the following command to compile the Java files:
 
    ```bash
    javac -d bin -sourcepath src src/App/Main.java
