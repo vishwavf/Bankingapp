@@ -30,13 +30,13 @@ BankingApp is a simple Java-based console application that simulates basic banki
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/vishwavf/BankingApp.git
+   git clone https://github.com/vishwavf/bankingApp.git
    ```
 
 2. **Navigate to the project directory:**
    
    ```bash
-   cd BankingApp
+   cd bankingApp
    ```
 
 3. **Compile the project:**
